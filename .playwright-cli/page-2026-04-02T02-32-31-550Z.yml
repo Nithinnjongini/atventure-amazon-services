@@ -1,0 +1,77 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e18]:
+      - paragraph [ref=e19]: Core Services
+      - heading "A dynamic service mix for Amazon growth, retail readiness, and cleaner execution." [level=2] [ref=e20]
+      - paragraph [ref=e21]: The original site outlined six core service pillars across categories like baby, sporting goods, electronics, apparel, office, travel, home, and seasonal. This version keeps that range but organizes it around Amazon-first growth systems.
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: Categories
+        - generic [ref=e25]:
+          - generic [ref=e26]: Baby
+          - generic [ref=e27]: Sporting Goods
+          - generic [ref=e28]: Electronics
+          - generic [ref=e29]: Apparel
+          - generic [ref=e30]: Office / Party / Stationery
+          - generic [ref=e31]: Travel
+          - generic [ref=e32]: Home
+          - generic [ref=e33]: Seasonal
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - button "Product Development & Sales" [ref=e36]
+          - button "Analytics & Forecasting" [ref=e37]
+          - button "Omnichannel" [ref=e38]
+          - button "Vendor & Item Management" [ref=e39]
+          - button "Marketing & Promotions" [ref=e40]
+          - button "Research & Special Projects" [ref=e41]
+        - article [ref=e42]:
+          - heading "Product Development & Sales" [level=3] [ref=e43]
+          - paragraph [ref=e44]: Account leadership, assortment planning, white space opportunity mapping, consumer insight, and trend analysis aligned to marketplace demand.
+          - list [ref=e45]:
+            - listitem [ref=e46]: Account management and leadership
+            - listitem [ref=e47]: Assortment planning and alignment
+            - listitem [ref=e48]: White space opportunities
+            - listitem [ref=e49]: Competitive landscape tracking
+            - listitem [ref=e50]: Consumer insights and trend analysis
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]: Next up
+        - heading "See how those core services become Amazon-specific programs." [level=2] [ref=e54]
+      - link "View Amazon Services" [ref=e55] [cursor=pointer]:
+        - /url: /amazon-services
+  - contentinfo [ref=e56]:
+    - generic [ref=e57]:
+      - paragraph [ref=e58]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e59]
+      - paragraph [ref=e60]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e61]:
+      - paragraph [ref=e62]: Office
+      - paragraph [ref=e63]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e64] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e65]:
+      - paragraph [ref=e66]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e67] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e68] [cursor=pointer]:
+        - /url: /privacy

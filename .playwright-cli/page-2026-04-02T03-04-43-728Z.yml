@@ -1,0 +1,77 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e18]:
+      - paragraph [ref=e19]: Privacy Policy
+      - heading "Effective as of July 25, 2017" [level=2] [ref=e20]
+      - paragraph [ref=e21]: This page preserves the structure and substance of the original Atventure Retail Group privacy content in a cleaner reading layout.
+    - generic [ref=e22]:
+      - article [ref=e23]:
+        - heading "Overview" [level=2] [ref=e24]
+        - paragraph [ref=e25]: Effective as of July 25, 2017, Atventure Retail Group states that it updated this policy to reflect new website features, tools, and services available through the site.
+        - paragraph [ref=e26]: The policy explains what information is collected, how it is used, how it may be shared, and which steps are taken to safeguard that information.
+        - paragraph [ref=e27]: It applies to information collected through the Atventure Retail Group site, services, and partner-operated websites connected to the experience, but not to unrelated third-party offerings linked from the site.
+        - list [ref=e28]:
+          - listitem [ref=e29]: What information do we collect about you and how do we use it?
+          - listitem [ref=e30]: Will we share your personal information with third parties?
+          - listitem [ref=e31]: What choices do you have about the collection and use of your personal information?
+          - listitem [ref=e32]: What security measures do we take to safeguard your personal information?
+      - article [ref=e33]:
+        - heading "Disclosure to third parties" [level=2] [ref=e34]
+        - paragraph [ref=e35]: The policy says Atventure does not rent, sell, or share personal information except in specific situations described in the policy or with permission.
+        - paragraph [ref=e36]: Those situations include affiliate and partner support, valid legal requirements, urgent safety or fraud-related cases, access by contractors helping run the business, aggregated non-personal reporting, and corporate-structure changes such as sale or merger activity.
+      - article [ref=e37]:
+        - heading "Information collection and use" [level=2] [ref=e38]
+        - paragraph [ref=e39]: The source policy says Atventure collects personal and non-personal information to fulfill requests, improve and manage the site and services, personalize the experience, contact users, offer products and services that may be relevant, and support features that allow posting or providing information.
+        - paragraph [ref=e40]: Registration is optional, but some features and content require it. Registration may collect information such as email address and, when relevant, a mobile number for text-message features.
+        - paragraph [ref=e41]: Registered users may optionally provide business information for profile customization, business directory listings, or personalized business pages.
+        - paragraph [ref=e42]: The policy also describes collection of browser type, IP address, visited pages, service usage, searches, search results, and cookie or beacon-based activity to manage the site and personalize the experience.
+        - paragraph [ref=e43]: The site is described as a general audience website and not intended for children under 13.
+      - article [ref=e44]:
+        - heading "Choice and control" [level=2] [ref=e45]
+        - paragraph [ref=e46]: Users may decline to provide personal information and may refuse cookies in the browser, although some features or services may then be inaccessible or not function properly.
+        - paragraph [ref=e47]: Additional privacy policies may apply to specific services or features, and use of those features indicates acknowledgement and acceptance of the applicable policies.
+      - article [ref=e48]:
+        - heading "Communications and forums" [level=2] [ref=e49]
+        - paragraph [ref=e50]: The original policy covers email communications, invitations, emailed articles, newsletters, promotions, alerts, reminders, private messages, and optional text-message communications, along with opt-out choices in several cases.
+        - paragraph [ref=e51]: It also notes that topic-oriented forums and public posting areas are open by design and that posts may be associated with the user nickname by default.
+      - article [ref=e52]:
+        - heading "Security, access, links, and updates" [level=2] [ref=e53]
+        - paragraph [ref=e54]: Atventure states that it maintains administrative, technical, and physical safeguards to protect against unauthorized disclosure, use, alteration, or destruction of information provided through the site.
+        - paragraph [ref=e55]: The policy also notes that users can edit account-profile information and site preferences, that linked partner or affiliate sites may operate independently with their own privacy policies, and that data may be transferred to and processed in the United States or other countries.
+        - paragraph [ref=e56]: Policy changes may be posted on the page and, when significant, may also be highlighted with more prominent notice.
+  - contentinfo [ref=e57]:
+    - generic [ref=e58]:
+      - paragraph [ref=e59]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e60]
+      - paragraph [ref=e61]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e62]:
+      - paragraph [ref=e63]: Office
+      - paragraph [ref=e64]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e65] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e66]:
+      - paragraph [ref=e67]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e68] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e69] [cursor=pointer]:
+        - /url: /privacy

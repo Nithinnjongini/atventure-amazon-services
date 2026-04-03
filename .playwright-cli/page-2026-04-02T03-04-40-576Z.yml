@@ -1,0 +1,73 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Contact Us
+        - heading "Downtown Minneapolis | Office & Showroom" [level=1] [ref=e20]
+        - paragraph [ref=e21]: Atventure Retail Group welcomes you to our showroom and downtown Minneapolis office, steps away from Target Headquarters and in close proximity to other national and regional retailers. Our team is excited to meet you; please email us or use the form below to get in touch.
+        - generic [ref=e22]:
+          - link "info@AtventureRetailGroup.com" [ref=e23] [cursor=pointer]:
+            - /url: mailto:info@AtventureRetailGroup.com
+          - link "81 S. 9th Street, Suite 410, Minneapolis, MN 55402" [ref=e24] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+      - img "Atventure showroom" [ref=e26]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - paragraph [ref=e29]: Start the conversation
+        - heading "Use the form below to draft an email and kick off the right discussion." [level=2] [ref=e30]
+        - paragraph [ref=e31]: The original site used a contact form directly on the page. This version keeps the same intent but uses a Vercel-friendly mailto workflow so the site stays deployable without a backend.
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - text: Name
+          - textbox "Name" [ref=e34]
+        - generic [ref=e35]:
+          - text: Email
+          - textbox "Email" [ref=e36]
+        - generic [ref=e37]:
+          - text: Primary need
+          - combobox "Primary need" [ref=e38]:
+            - option "Amazon marketplace growth" [selected]
+            - option "Advertising and retail media"
+            - option "Catalog and detail page optimization"
+            - option "Retail foundations and omnichannel planning"
+        - generic [ref=e39]:
+          - text: Message
+          - textbox "Message" [ref=e40]:
+            - /placeholder: Tell us about your brand, category, and growth goals.
+        - button "Build My Draft Email" [ref=e41]
+  - contentinfo [ref=e42]:
+    - generic [ref=e43]:
+      - paragraph [ref=e44]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e45]
+      - paragraph [ref=e46]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e47]:
+      - paragraph [ref=e48]: Office
+      - paragraph [ref=e49]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e50] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e51]:
+      - paragraph [ref=e52]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e53] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e54] [cursor=pointer]:
+        - /url: /privacy

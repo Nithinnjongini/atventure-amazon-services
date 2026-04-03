@@ -1,0 +1,104 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Amazon Services
+        - heading "Full-service Amazon support for brands that want more than channel maintenance." [level=1] [ref=e20]
+        - paragraph [ref=e21]: Atventure positions itself as a full-service Amazon agency that helps clients deliver a better customer experience, grow sales, and improve digital presence. We preserved that message and brought it to the center of the new experience.
+        - link "Request a Strategy Call" [ref=e22] [cursor=pointer]:
+          - /url: /contact
+      - img "Amazon services" [ref=e24]
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: Why choose Atventure
+        - heading "Built for brands that need digital depth and retail judgment in the same room." [level=2] [ref=e28]
+        - paragraph [ref=e29]: The original Amazon page answered this directly. We kept those differentiators and gave them stronger hierarchy.
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - paragraph [ref=e32]: More digital experience than a traditional rep group
+        - article [ref=e33]:
+          - paragraph [ref=e34]: Deeper retail merchandising backgrounds than a typical Amazon marketing consultant
+        - article [ref=e35]:
+          - paragraph [ref=e36]: More value delivered in less time versus building an in-house sales role from scratch
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - paragraph [ref=e39]: What we provide
+        - heading "Visibility, resources, strategy, service, and expertise." [level=2] [ref=e40]
+        - paragraph [ref=e41]: These five pillars come directly from the source Amazon page and now anchor the structure of the experience.
+      - generic [ref=e42]:
+        - article [ref=e43]:
+          - heading "Visibility" [level=3] [ref=e44]
+          - paragraph [ref=e45]: We proactively educate clients about digital retail so they can see what is changing before it affects performance.
+        - article [ref=e46]:
+          - heading "Resources" [level=3] [ref=e47]
+          - paragraph [ref=e48]: We use industry-leading tools and AI-supported workflows to maximize efficiency and sharpen decision-making.
+        - article [ref=e49]:
+          - heading "Strategy" [level=3] [ref=e50]
+          - paragraph [ref=e51]: We partner long-term across product development, negotiation, market research, and growth planning.
+        - article [ref=e52]:
+          - heading "Service" [level=3] [ref=e53]
+          - paragraph [ref=e54]: We operate with your best interests in mind and aim to surpass expectations in the day-to-day work.
+        - article [ref=e55]:
+          - heading "Expertise" [level=3] [ref=e56]
+          - paragraph [ref=e57]: We build teams with deep Amazon knowledge that can guide your business strategically and profitably.
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: Program tracks
+        - heading "Three workstreams that move Amazon performance forward." [level=2] [ref=e61]
+        - paragraph [ref=e62]: Support the account, drive qualified traffic, and keep strategic decisions grounded in data.
+      - generic [ref=e63]:
+        - article [ref=e64]:
+          - heading "Core account support" [level=3] [ref=e65]
+          - list [ref=e66]:
+            - listitem [ref=e67]: Account creation, item set up, and maintenance
+            - listitem [ref=e68]: Product detail page optimization for conversion and Amazon search
+            - listitem [ref=e69]: Searchability and sales rank improvements
+            - listitem [ref=e70]: Daily account monitoring
+        - article [ref=e71]:
+          - heading "Traffic and marketing expansion" [level=3] [ref=e72]
+          - list [ref=e73]:
+            - listitem [ref=e74]: Amazon PPC and DSP campaign management
+            - listitem [ref=e75]: Brand store creation and refreshes
+            - listitem [ref=e76]: Rollout of new Amazon marketing features
+        - article [ref=e77]:
+          - heading "Strategic advisory" [level=3] [ref=e78]
+          - list [ref=e79]:
+            - listitem [ref=e80]: Weekly and monthly analytics, reporting, and insights
+            - listitem [ref=e81]: Compliance and regulation support, including reinstatement guidance
+            - listitem [ref=e82]: International expansion planning
+  - contentinfo [ref=e83]:
+    - generic [ref=e84]:
+      - paragraph [ref=e85]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e86]
+      - paragraph [ref=e87]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e88]:
+      - paragraph [ref=e89]: Office
+      - paragraph [ref=e90]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e91] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e92]:
+      - paragraph [ref=e93]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e94] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e95] [cursor=pointer]:
+        - /url: /privacy

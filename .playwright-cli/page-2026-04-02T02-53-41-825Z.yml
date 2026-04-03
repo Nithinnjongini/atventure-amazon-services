@@ -1,0 +1,147 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Who We Are
+        - heading "A retail team built on partnerships, category knowledge, and long-view growth thinking." [level=1] [ref=e20]
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: A manufacturer and retailer relationship can range from simply transactional to a long-term partnership of aligning visions.
+          - paragraph [ref=e23]: Atventure Retail Group was founded in 2013 and grew by pairing retail expertise, manufacturing excellence, collaboration, and forward-thinking problem solving.
+          - paragraph [ref=e24]: This Amazon-focused site keeps that story intact while giving the digital channel a clearer front door.
+      - img "Atventure team environment" [ref=e26]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - paragraph [ref=e29]: Executive Team
+        - heading "Leadership shaped by retailer-side and manufacturer-side experience." [level=2] [ref=e30]
+        - paragraph [ref=e31]: The existing biography page was one of the site’s strongest credibility assets, so this version preserves the fuller founder story instead of reducing it to a short summary.
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - img "Troy Peterson" [ref=e34]
+          - generic [ref=e35]:
+            - paragraph [ref=e36]: Founded in Minneapolis
+            - paragraph [ref=e37]: Retail experience, manufacturing partnership, and long-view account leadership brought together in one group.
+        - article [ref=e38]:
+          - heading "Troy Peterson" [level=3] [ref=e39]
+          - paragraph [ref=e40]: Founder
+          - generic [ref=e41]:
+            - paragraph [ref=e42]: With over 32 years of retail experience, Troy began his retail journey in 1994 at Target as a Business Analyst. During 17 years there, in progressive merchandising and planning roles including Manager, Buyer, and Senior Buyer, he developed a passion for collaborating with manufacturers to create the strongest possible products and presentation.
+            - paragraph [ref=e43]: At Target, he worked across Sporting Goods, Apparel, Electronics, Video Games, Home Improvement, and Grocery. That wide category range built deep experience in branding, licensing, private label, product development, packaging, and new product launch marketing.
+            - paragraph [ref=e44]: In 2010, Troy joined Toys R Us as DMM overseeing Electronics and Entertainment, where he led marketing for exclusive launches, developed private-label electronics, and expanded the digital business on toysrus.com.
+            - paragraph [ref=e45]: Driven by a passion for product and presentation, Troy partnered with Andy Weiner in 2013 to create Atventure, combining retailer-side expertise with decades of manufacturer-representation experience.
+        - article [ref=e46]:
+          - heading "Andy Weiner" [level=3] [ref=e47]
+          - paragraph [ref=e48]: Executive Advisor
+          - generic [ref=e49]:
+            - paragraph [ref=e50]: Andy started his career 45 years ago with the Milton Bradley Toy Company, where he developed a 360-degree view of manufacturing and sales.
+            - paragraph [ref=e51]: In 1983, he became a manufacturer representative with the company that eventually became Toy N Around. Over the next 35 years, his leadership helped build long-term strategic partnerships for vendors at Target in the Toy department and contributed to over $3B in retail sales.
+            - paragraph [ref=e52]: Outside of work, Andy has a long history of supporting children-focused nonprofits, including the Children’s Cancer Research Fund and Make-A-Wish Foundation.
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: Core Team
+        - heading "A cross-functional roster with retail, account, and operational depth." [level=2] [ref=e56]
+        - paragraph [ref=e57]: We believe our team is our secret sauce. We are a collection of industry veterans, with over 100 years of combined retail and digital expertise in almost every category.
+      - generic [ref=e58]:
+        - article [ref=e59]:
+          - img "Janis Volk" [ref=e60]
+          - generic [ref=e61]:
+            - heading "Janis Volk" [level=3] [ref=e62]
+            - paragraph [ref=e63]: Vice President of Sales
+        - article [ref=e64]:
+          - img "Cassie Williams" [ref=e65]
+          - generic [ref=e66]:
+            - heading "Cassie Williams" [level=3] [ref=e67]
+            - paragraph [ref=e68]: Senior Director of Sales
+        - article [ref=e69]:
+          - img "Liz Peterson" [ref=e70]
+          - generic [ref=e71]:
+            - heading "Liz Peterson" [level=3] [ref=e72]
+            - paragraph [ref=e73]: Retail Advisor
+        - article [ref=e74]:
+          - img "Garrett Savoie" [ref=e75]
+          - generic [ref=e76]:
+            - heading "Garrett Savoie" [level=3] [ref=e77]
+            - paragraph [ref=e78]: Account Management
+        - article [ref=e79]:
+          - img "Molly LaNou" [ref=e80]
+          - generic [ref=e81]:
+            - heading "Molly LaNou" [level=3] [ref=e82]
+            - paragraph [ref=e83]: Account Management
+        - article [ref=e84]:
+          - img "Jarrod Wright" [ref=e85]
+          - generic [ref=e86]:
+            - heading "Jarrod Wright" [level=3] [ref=e87]
+            - paragraph [ref=e88]: Account Management
+        - article [ref=e89]:
+          - img "Natasha O’Neal" [ref=e90]
+          - generic [ref=e91]:
+            - heading "Natasha O’Neal" [level=3] [ref=e92]
+            - paragraph [ref=e93]: Account Management
+        - article [ref=e94]:
+          - img "Matt Meloch" [ref=e95]
+          - generic [ref=e96]:
+            - heading "Matt Meloch" [level=3] [ref=e97]
+            - paragraph [ref=e98]: Account Management
+        - article [ref=e99]:
+          - img "Hannah Williams" [ref=e100]
+          - generic [ref=e101]:
+            - heading "Hannah Williams" [level=3] [ref=e102]
+            - paragraph [ref=e103]: Senior Operations Manager
+        - article [ref=e104]:
+          - img "James Ocenasek" [ref=e105]
+          - generic [ref=e106]:
+            - heading "James Ocenasek" [level=3] [ref=e107]
+            - paragraph [ref=e108]: Account Management
+        - article [ref=e109]:
+          - img "Emily Gasper" [ref=e110]
+          - generic [ref=e111]:
+            - heading "Emily Gasper" [level=3] [ref=e112]
+            - paragraph [ref=e113]: Account Management
+        - article [ref=e114]:
+          - img "Lisa Lewis" [ref=e115]
+          - generic [ref=e116]:
+            - heading "Lisa Lewis" [level=3] [ref=e117]
+            - paragraph [ref=e118]: Account Management
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - paragraph [ref=e121]: Our Strategic Location
+        - heading "A downtown Minneapolis office built for close collaboration." [level=2] [ref=e122]
+        - paragraph [ref=e123]: The original page closes with office imagery and location context. We preserved that here so the team story ends with a sense of place.
+      - generic [ref=e124]:
+        - img "Atventure office interior" [ref=e125]
+        - img "Atventure office and showroom" [ref=e126]
+  - contentinfo [ref=e127]:
+    - generic [ref=e128]:
+      - paragraph [ref=e129]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e130]
+      - paragraph [ref=e131]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e132]:
+      - paragraph [ref=e133]: Office
+      - paragraph [ref=e134]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e135] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e136]:
+      - paragraph [ref=e137]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e138] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e139] [cursor=pointer]:
+        - /url: /privacy

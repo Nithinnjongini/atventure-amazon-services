@@ -1,0 +1,112 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Retail Foundations
+        - heading "Decades of Target and omnichannel experience, reframed as an Amazon advantage." [level=1] [ref=e20]
+        - paragraph [ref=e21]: The existing site devoted a full page to Target representation. Instead of making Target equal billing here, we position that experience as the retail foundation that strengthens Amazon execution.
+      - img "Retail foundations" [ref=e23]
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: Legacy expertise
+        - heading "Why the old Target page still matters." [level=2] [ref=e27]
+        - paragraph [ref=e28]: The original Target page carried important retailer context and manufacturer-facing positioning that still strengthens the Amazon story.
+      - generic [ref=e29]:
+        - paragraph [ref=e30]: Since 1962, delivering on the promise to expect more and pay less, Target has grown from a single store in Roseville, Minnesota into a national omni-channel retailer with stores in all fifty states.
+        - paragraph [ref=e31]: By using a customized approach, Atventure has worked successfully on behalf of many different manufacturers, from household names with deep penetration to emerging brands looking to go to market.
+        - paragraph [ref=e32]: The Atventure team is a diverse group with deep roots at Target, united in a passion for retail and serving manufacturers. Whether you are looking for a Target sales rep, broker, manufacturer’s rep group, or simply a Target retail expert, the same operating discipline strengthens Amazon work too.
+        - generic [ref=e33]:
+          - generic [ref=e34]: Baby
+          - generic [ref=e35]: Sporting Goods
+          - generic [ref=e36]: Electronics
+          - generic [ref=e37]: Apparel
+          - generic [ref=e38]: Office / Party / Stationery
+          - generic [ref=e39]: Travel
+          - generic [ref=e40]: Home
+          - generic [ref=e41]: Seasonal
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - paragraph [ref=e44]: What manufacturers said Atventure delivers
+        - heading "Innovation, access, growth, and operational confidence." [level=2] [ref=e45]
+        - paragraph [ref=e46]: These sections are preserved more fully from the original Target page so the operational depth is not lost in the Amazon repositioning.
+      - generic [ref=e47]:
+        - article [ref=e48]:
+          - heading "We bring newness and innovation" [level=3] [ref=e49]
+          - list [ref=e50]:
+            - listitem [ref=e51]: Understanding consumer needs and timing trends correctly
+            - listitem [ref=e52]: Identifying white space opportunities that align with retailer goals
+        - article [ref=e53]:
+          - heading "We drive growth and profitability" [level=3] [ref=e54]
+          - list [ref=e55]:
+            - listitem [ref=e56]: Balancing data and EQ to unlock growth
+            - listitem [ref=e57]: Negotiating terms, costing, and product mix with pragmatic judgment
+        - article [ref=e58]:
+          - heading "We provide visibility and access" [level=3] [ref=e59]
+          - list [ref=e60]:
+            - listitem [ref=e61]: Knowing enterprise, department, and item-level priorities
+            - listitem [ref=e62]: Getting upstream creates better long-term sustainable programs
+            - listitem [ref=e63]: Connecting with the right people at the right time
+        - article [ref=e64]:
+          - heading "We remove risk" [level=3] [ref=e65]
+          - list [ref=e66]:
+            - listitem [ref=e67]: Boots-on-the-ground continuity near retail headquarters
+        - article [ref=e68]:
+          - heading "We provide creative solutions" [level=3] [ref=e69]
+          - list [ref=e70]:
+            - listitem [ref=e71]: Collaborative strategy meetings held proactively to push business forward and overcome hurdles
+            - listitem [ref=e72]: When a challenge arises, we utilize the broader team to develop both practical and outside-the-box solutions
+        - article [ref=e73]:
+          - heading "We provide flawless execution" [level=3] [ref=e74]
+          - list [ref=e75]:
+            - listitem [ref=e76]: Flawless item creation, monitoring, and promotional tracking
+            - listitem [ref=e77]: Actionable insight and audit-readiness through disciplined documentation
+        - article [ref=e78]:
+          - heading "We create a customized plan" [level=3] [ref=e79]
+          - list [ref=e80]:
+            - listitem [ref=e81]: Immediate onboarding with a now, next, and long-term plan
+            - listitem [ref=e82]: Insight-driven strategy built from curiosity, data, and what-next thinking
+            - listitem [ref=e83]: Product development and sales
+            - listitem [ref=e84]: Go-to-market strategy development
+            - listitem [ref=e85]: Insight studies as needed
+            - listitem [ref=e86]: Sales analytics and forecasting
+            - listitem [ref=e87]: Promotional and marketing management
+            - listitem [ref=e88]: ROI monitoring
+            - listitem [ref=e89]: Item management
+            - listitem [ref=e90]: Vendor income and budgeting spend
+            - listitem [ref=e91]: Omni-channel management
+  - contentinfo [ref=e92]:
+    - generic [ref=e93]:
+      - paragraph [ref=e94]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e95]
+      - paragraph [ref=e96]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e97]:
+      - paragraph [ref=e98]: Office
+      - paragraph [ref=e99]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e100] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e101]:
+      - paragraph [ref=e102]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e103] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e104] [cursor=pointer]:
+        - /url: /privacy

@@ -1,0 +1,128 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "Atventure Amazon Services" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: Atventure
+      - generic [ref=e7]: Amazon Services
+    - navigation [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - link "Services" [ref=e10] [cursor=pointer]:
+        - /url: /services
+      - link "Amazon" [ref=e11] [cursor=pointer]:
+        - /url: /amazon-services
+      - link "Values" [ref=e12] [cursor=pointer]:
+        - /url: /values
+      - link "Who We Are" [ref=e13] [cursor=pointer]:
+        - /url: /about
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: /contact
+      - link "Talk With Us" [ref=e15] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - img "Retail growth planning" [ref=e19]
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: From concept, to click, to cart.
+        - heading "Amazon growth with retail discipline behind every move." [level=1] [ref=e22]
+        - paragraph [ref=e23]: "We rebuilt the Atventure story around what clients need most today: sharper Amazon strategy, stronger execution, and a partner that can move from product detail pages to long-term growth planning without missing the basics."
+        - generic [ref=e24]:
+          - link "Start a Conversation" [ref=e25] [cursor=pointer]:
+            - /url: /contact
+          - link "Explore Amazon Services" [ref=e26] [cursor=pointer]:
+            - /url: /amazon-services
+    - generic [ref=e27]:
+      - article [ref=e28]:
+        - strong [ref=e29]: "2013"
+        - generic [ref=e30]: Founded
+      - article [ref=e31]:
+        - strong [ref=e32]: 100+
+        - generic [ref=e33]: Years of combined retail and digital expertise
+      - article [ref=e34]:
+        - strong [ref=e35]: Minneapolis
+        - generic [ref=e36]: HQ near major retail decision-makers
+      - article [ref=e37]:
+        - strong [ref=e38]: Seattle
+        - generic [ref=e39]: Support presence for Amazon workstreams
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - paragraph [ref=e42]: The original distinctives, redesigned
+        - heading "The same core strengths, now aimed directly at Amazon momentum." [level=2] [ref=e43]
+        - paragraph [ref=e44]: The legacy site emphasized team, process, and results. We kept those ideas, but arranged them as a clearer narrative for brands looking for Amazon growth support.
+      - generic [ref=e45]:
+        - article [ref=e46]:
+          - heading "Our Team" [level=3] [ref=e47]
+          - paragraph [ref=e48]: A highly talented team with broad retail perspective and deep account experience.
+          - link "Explore" [ref=e49] [cursor=pointer]:
+            - /url: /about
+        - article [ref=e50]:
+          - heading "Our Process" [level=3] [ref=e51]
+          - paragraph [ref=e52]: Hands-on partnership, strategic curiosity, and practical action that keeps profitability in focus.
+          - link "Explore" [ref=e53] [cursor=pointer]:
+            - /url: /values
+        - article [ref=e54]:
+          - heading "Our Results" [level=3] [ref=e55]
+          - paragraph [ref=e56]: A proven track record of driving new business, incremental growth, and stronger digital execution.
+          - link "Explore" [ref=e57] [cursor=pointer]:
+            - /url: /services
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: Strategic Retail Partners
+        - heading "Retail fluency across channels, with Amazon in the lead position." [level=2] [ref=e61]
+        - paragraph [ref=e62]: The existing site called out Amazon, Target, and Menards. Here, that broader retail reach becomes proof that the team understands how digital growth connects with wider retail strategy.
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - img "Amazon" [ref=e65]
+          - generic [ref=e66]: Amazon
+        - generic [ref=e67]:
+          - img "Target" [ref=e68]
+          - generic [ref=e69]: Target
+        - generic [ref=e70]:
+          - img "Menards" [ref=e71]
+          - generic [ref=e72]: Menards
+      - img "Trusted brand partners" [ref=e73]
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - paragraph [ref=e76]: Trusted brand partners
+        - heading "What clients already say about the work." [level=2] [ref=e77]
+        - paragraph [ref=e78]: The source site included testimonials from Amazon and Target-oriented partners. We kept that proof front and center, with extra breathing room and a simpler reading experience.
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - button "Back" [ref=e81]
+          - generic "Testimonials" [ref=e82]:
+            - button "Show testimonial from Emilie Storms" [ref=e83]
+            - button "Show testimonial from Ted Kelley" [ref=e84]
+            - button "Show testimonial from Dave Bickel" [ref=e85]
+            - button "Show testimonial from Brian McDonald" [ref=e86]
+          - button "Next" [ref=e87]
+        - article [ref=e88]:
+          - paragraph [ref=e89]: “I have had the continued pleasure of working with AtVenture Retail Group for Amazon consulting. Their deep understanding of Amazon’s ecosystem was evident in the strategies they developed.”
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Emilie Storms
+            - paragraph [ref=e92]: Marketing Director
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: Our strategic location
+        - heading "Minneapolis roots. Seattle support. Amazon-first execution." [level=2] [ref=e96]
+        - paragraph [ref=e97]: Our downtown Minneapolis office is steps away from Target headquarters, with team members in Seattle supporting Amazon services and broader retail partnerships.
+      - generic [ref=e98]:
+        - link "Visit the Office" [ref=e99] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+        - link "Contact the Team" [ref=e100] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e101]:
+    - generic [ref=e102]:
+      - paragraph [ref=e103]: Built from Atventure Retail Group expertise
+      - heading "Atventure Amazon Services" [level=3] [ref=e104]
+      - paragraph [ref=e105]: A more focused digital presence for Amazon marketplace growth, powered by the same retail depth, strategic thinking, and partnership mindset behind Atventure Retail Group.
+    - generic [ref=e106]:
+      - paragraph [ref=e107]: Office
+      - paragraph [ref=e108]: 81 S. 9th Street, Suite 410, Minneapolis, MN 55402
+      - link "Get Directions" [ref=e109] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/6M7aqRoeZP2ikXG87
+    - generic [ref=e110]:
+      - paragraph [ref=e111]: Contact
+      - link "info@AtventureRetailGroup.com" [ref=e112] [cursor=pointer]:
+        - /url: mailto:info@AtventureRetailGroup.com
+      - link "Privacy Policy" [ref=e113] [cursor=pointer]:
+        - /url: /privacy
